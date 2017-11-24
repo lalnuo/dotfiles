@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Monokai",
+  "eslint.autoFixOnSave": true,
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true
+}
